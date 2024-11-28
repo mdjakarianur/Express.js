@@ -8,7 +8,7 @@ class Node {
   Node* next;
 };
 
-int main() {
+int main(){
   Node* head;
   Node* one = NULL;
   Node* two = NULL;
